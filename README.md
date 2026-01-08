@@ -88,3 +88,7 @@ Use the menu to manage inventory:
 4. Delete Product
 5. Search Product
 6. Exit
+
+## Author
+Neliswa Biyela
+Junior Software Developer
